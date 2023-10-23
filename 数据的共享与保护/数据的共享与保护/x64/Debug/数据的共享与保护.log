@@ -1,0 +1,4 @@
+﻿  2.c
+E:\VS\数据的共享与保护\数据的共享与保护\2.c(8,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\数据的共享与保护\数据的共享与保护\2.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\数据的共享与保护\数据的共享与保护\2.c(4,17): warning C4101: “s”: 未引用的局部变量
